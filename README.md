@@ -1,3 +1,3 @@
 # ComputerVision
 
-Running realtime onnx 
+Running realtime onnx cpu
