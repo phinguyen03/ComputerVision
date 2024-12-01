@@ -38,7 +38,7 @@ while cap.isOpened():
 
         # Inference
         results = model(input_tensor)
-        predicted = torch.argmax(results, dim=1)
+        _, predicted = torch.max(results, dim=1)
         label = "Mask" if predicted.item() == 0 else "No Mask"
 
         # Draw bounding box and label
