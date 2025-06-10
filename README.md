@@ -1,6 +1,6 @@
 # Face Mask Detection
 
-Classìy model:
+Classification model:
 - Yolov5 classify backbone(cspdarknet53)
 
 Face detection model:
