@@ -1,5 +1,11 @@
-# ComputerVision Face Mask Detection
+# Face Mask Detection
 
-- Running realtime onnx cpu
-- best file is Yolov5 classify backbone(cspdarknet53)
+Classìy model:
+- Yolov5 classify backbone(cspdarknet53)
+
+Face detection model:
 - Face detection: Haarfeature algorithm(Opencv)
+
+Realtime:
+- Running realtime onnx cpu
+
