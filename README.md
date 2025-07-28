@@ -20,5 +20,5 @@ https://docs.ultralytics.com/models/yolov5/
 - Ready for CPU edge device
 - Good classification mask or no mask
 ## Limitation
-- Face detection not good at side view
+- Face detection is not good at side view
 - Improve with strong model about face detection to handle this problem
