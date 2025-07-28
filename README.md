@@ -21,3 +21,4 @@ https://docs.ultralytics.com/models/yolov5/
 - Good classification mask or no mask
 ## Limitation
 - Face detection not good at side view
+- Improve with strong model about face detection to handle this problem
