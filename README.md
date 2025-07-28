@@ -9,3 +9,5 @@ Face detection model:
 Runtime system:
 - Running realtime onnx cpu
 
+Docs:
+https://docs.ultralytics.com/models/yolov5/
