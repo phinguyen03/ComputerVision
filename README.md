@@ -9,8 +9,15 @@ Classification model:
 Face detection model:
 - Face detection: Haarfeature algorithm(Opencv)
 
-Runtime system:
-- Running realtime on CPU-System with onnx format
+ONNX runtime:
+- Convert ONNX format for low latency
 
 More information:
 https://docs.ultralytics.com/models/yolov5/
+
+## Achieved
+- Running realtime on CPU-base laptop
+- Ready for CPU edge device
+- Good classification mask or no mask
+## Limitation
+- Face detection not good at side view
