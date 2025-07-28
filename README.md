@@ -6,6 +6,6 @@ Classification model:
 Face detection model:
 - Face detection: Haarfeature algorithm(Opencv)
 
-Realtime:
+Runtime system:
 - Running realtime onnx cpu
 
