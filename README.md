@@ -2,7 +2,7 @@
 ## Architecture
 ![FaceMaskDetection workflow](architecture.PNG)
 
-## Describe
+## Method
 Classification model:
 - Yolov5 classify backbone(cspdarknet53)
 
