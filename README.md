@@ -15,7 +15,7 @@ ONNX runtime:
 More information:
 https://docs.ultralytics.com/models/yolov5/
 
-## Achieved
+## Achievement
 - Running realtime on CPU-base laptop
 - Ready for CPU edge device
 - Good classification mask or no mask
