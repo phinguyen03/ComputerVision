@@ -1,4 +1,4 @@
-# Face Mask Detection
+# Face Mask Detection in terminal area of manufacturing plant
 
 Classification model:
 - Yolov5 classify backbone(cspdarknet53)
