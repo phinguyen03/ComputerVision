@@ -7,7 +7,7 @@ Face detection model:
 - Face detection: Haarfeature algorithm(Opencv)
 
 Runtime system:
-- Running realtime on cpu system with onnx format
+- Running realtime on CPU-System with onnx format
 
 Docs:
 https://docs.ultralytics.com/models/yolov5/
